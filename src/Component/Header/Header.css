@@ -1,0 +1,20 @@
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 6vh;
+}
+
+.wrapper {
+  margin: 0px 10px;
+  width: 100%;
+  position: fixed;
+}
+
+.header_nav {
+  display: flex;
+}
+
+.header_nav > * {
+  padding: 0px 10px;
+}
